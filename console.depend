@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1538988896 source:c:\users\toma\desktop\c++\console\conf.cpp
+
+1538991327 source:c:\users\toma\desktop\c++\console\main.cpp
+	<iostream>
+	"conf.h"
+	"user.h"
+
+1538989209 c:\users\toma\desktop\c++\console\conf.h
+
+1538990971 c:\users\toma\desktop\c++\console\user.h
+	<string>
+
